@@ -1,7 +1,9 @@
 # CS5588_DS_Capstone
 # Week 1 Hands-On Lab
 Data Science Capstone Project
+
 Name: Prathyu Adari
+
 Major: Data Science Analytics - Graduate Program
 
 Research / Project Interest: 
